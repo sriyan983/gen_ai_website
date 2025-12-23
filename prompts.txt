@@ -1,0 +1,2 @@
+“Create an image of a mock web user interface for a Global Gen-AI Community. Make the user interface clean, elegant, and modern.” - For creating the image / preivew with lovabale
+"ok can you now generate the html code for this please" - For generating the HTML output with lovabale
